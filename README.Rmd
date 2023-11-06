@@ -1,0 +1,2 @@
+##README
+Es un visor de lectura.
